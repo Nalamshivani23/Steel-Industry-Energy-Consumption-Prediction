@@ -1,4 +1,5 @@
-Steel Industry Energy Consumption prediction
+Steel Industry Energy Consumption prediction                         
+
 I Completed the project as part of my Data Science and Machine Learning Internship with United Network of Professionals(UNP)
 Glimpse of the project:
 The objective of this project is to find the suitable machine learning model to predict the energy consumption in steel indusry of south korea for implementing eco-friendly production methods.
